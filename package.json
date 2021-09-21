@@ -1,0 +1,8 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "music player",
+  "main": "index.js",
+  "author": "Ashab Uddin",
+  "license": "MIT"
+}
